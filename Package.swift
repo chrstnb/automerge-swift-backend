@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "AutomergeBackend",
             url: "https://github.com/chrstnb/automerge-swift-backend/releases/download/chrstnb/AutomergeBackend.xcframework.zip",
-            checksum: "2e424c3bf1293833df411ebb3ee7934611c82c50ce5935dc434bbd147da27e0f"
+            checksum: "ebb2980c16a0f05bd06bdcde59e92a8c40b6665b9340068fbdf12ade79997577"
         )
     ]
 )
